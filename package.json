@@ -1,0 +1,15 @@
+{
+  "name": "todos",
+  "version": "0.0.0",
+  "description": "TODOS!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg Lamp",
+  "license": "BSD",
+  "dependencies": {
+    "polymer": "^0.4.1",
+    "ui-toolkit": "0.0.37"
+  }
+}
